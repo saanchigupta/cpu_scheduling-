@@ -1,4 +1,4 @@
-# cpu_scheduling-# cpu_scheduling-# CPU Scheduling Simulator
+# CPU Scheduling Simulator
 
 This is a Streamlit-based web application that demonstrates various CPU scheduling algorithms by simulating process execution and visualizing the timeline with a Gantt chart.
 
